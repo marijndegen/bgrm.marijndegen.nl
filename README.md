@@ -10,3 +10,6 @@ https://docs.python.org/3/tutorial/venv.html
 
 To activate: 
 > source python_venvs/bgrm.marijndegen.nl/bin/activate
+
+To deactivate:
+> deactivate
